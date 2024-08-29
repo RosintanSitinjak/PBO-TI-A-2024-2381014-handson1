@@ -4,6 +4,7 @@ public class TipeDataCharacter {
         char n = 'n';
         char a = 'a';
         char i = 'i';
+
         System.out.println(u);
         System.out.println(n);
         System.out.println(a);

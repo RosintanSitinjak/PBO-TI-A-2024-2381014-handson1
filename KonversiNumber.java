@@ -14,11 +14,5 @@ public class KonversiNumber {
         byte tipeDataByte2 = (byte) tipeDataInt2;
         System.out.println(tipeDataByte2);
 
-
-
-
-
-
-
 }
 }
